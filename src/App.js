@@ -1,6 +1,8 @@
 import React from 'react'
 import { Navbar,Brand,CTA,Article,Feature } from './components';
 import { Blog,Features,Footer,Header,Possibility,WhatGPT3 } from './containers';
+import './App.css'
+import './index.css'
 //rafce for react functional component
 const App = () => {
   return (
