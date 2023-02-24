@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Modern-UI-UX-GPT-3
 
-![image](https://user-images.githubusercontent.com/84934990/221263005-e19da6af-68ee-45d0-975b-fec5a41d12d9.png)
+
